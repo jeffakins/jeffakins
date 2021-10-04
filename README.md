@@ -5,7 +5,7 @@
 - Data Scientist *with an MBA*
 - BA Mathematics 
 - US Marine Corps Veteran 
-- Fun fact: I am a licenced commercial pilot
+- Fun fact: I am a licensed commercial pilot
 
 ### Skills:
 - Python | SQL | Tableau | Microsoft Suite | Git | Jupyter Lab 
