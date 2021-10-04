@@ -1,30 +1,30 @@
-### Hello and Welcome to my page!
+## Hello and Welcome to my page!
 
-#### A little about me:
+### A little about me:
 
-:chart_with_upwards_trend: Data Scientist with an MBA
-:mortar_board: BA Mathematics
-:military helmet: US Marine Corps Veteran
+:chart_with_upwards_trend:_ Data Scientist *with a MBA*
+:mortar_board:_ BA Mathematics
+:military_helmet:_ US Marine Corps Veteran
 
-#### Skills:
-:snake: Python
-:open_book: SQL
-:art: Tableau
-:bar_chart: Microsoft Suite
-:clipboard: Git
-:ledger: Jupyter Lab
+### Skills:
+:snake:_ Python
+:open_book:_ SQL
+:art:_ Tableau
+:bar_chart:_ Microsoft Suite
+:clipboard:_ Git
+:ledger:_ Jupyter Lab
 
-#### Libraries:
-Pandas
-Numpy
-Seaborn
-Matplotlib
-Math/Stats
-Sci-Kit Learn
-SciPy
+### Libraries:
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- Math/Stats
+- Sci-Kit Learn
+- SciPy
 
-:mailbox_closed: You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffakinsmba/)
+:mailbox_closed:_ You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffakinsmba/)
 
-:orange_circle: Check out my [Tableau](https://public.tableau.com/app/profile/jeff.akins) portfolio!
+:orange_circle:_ Check out my [Tableau](https://public.tableau.com/app/profile/jeff.akins) portfolio!
 
-:small_airplane: Fun fact: I am a licenced commercial pilot
+:small_airplane:_ Fun fact: I am a licenced commercial pilot
