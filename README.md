@@ -3,17 +3,17 @@
 ### A little about me:
 
 - Data Scientist *with an MBA*
-- BA Mathematics :mortar_board: 
-- US Marine Corps Veteran :military_helmet:
-- Fun fact: I am a licenced commercial pilot :small_airplane:
+- BA Mathematics 
+- US Marine Corps Veteran 
+- Fun fact: I am a licenced commercial pilot
 
 ### Skills:
 - Python :snake:
-- SQL :open_book:
-- Tableau :art:
-- Microsoft Suite :bar_chart:
-- Git :clipboard:
-- Jupyter Lab :ledger:
+- SQL 
+- Tableau 
+- Microsoft Suite 
+- Git 
+- Jupyter Lab 
 
 ### Libraries:
 - Pandas
@@ -25,7 +25,7 @@
 - SciPy
 
 ### Contact:
-- You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffakinsmba/) :mailbox_with_mail: 
-- Check out my [Tableau](https://public.tableau.com/app/profile/jeff.akins) portfolio! :boom:
+- You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffakinsmba/) 
+- Check out my [Tableau](https://public.tableau.com/app/profile/jeff.akins) portfolio! 
 
   
