@@ -2,7 +2,7 @@
 
 ### A little about me:
 
-- Data Scientist *with a MBA*
+- Data Scientist *with an MBA*
 - BA Mathematics :mortar_board: 
 - US Marine Corps Veteran :military_helmet:
 - Fun fact: I am a licenced commercial pilot :small_airplane:
@@ -26,6 +26,6 @@
 
 ### Contact:
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffakinsmba/) :mailbox_with_mail: 
-- Check out my [Tableau](https://public.tableau.com/app/profile/jeff.akins) portfolio! :balloon:
+- Check out my [Tableau](https://public.tableau.com/app/profile/jeff.akins) portfolio! :boom:
 
   
