@@ -8,10 +8,10 @@
 - Fun fact: I am a licensed commercial pilot
 
 ### Skills:
-- Python | SQL | Tableau | Microsoft Suite | Git | Jupyter Lab 
+- Python | SQL | Tableau | Microsoft Suite | Git | Jupyter  
 
 ### Libraries:
-- Pandas | Numpy | Seaborn | Matplotlib | Math/Stats | Sci-Kit Learn | SciPy
+- Pandas | Numpy | Seaborn | Matplotlib | Math/Stats | Scikit-Learn | SciPy
 
 ### Contact:
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffakinsmba/) 
