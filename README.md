@@ -8,7 +8,7 @@
 - Fun fact: I am a licensed commercial pilot
 
 ### Skills:
-- Python | SQL | Tableau | Microsoft Suite | Git | Jupyter  
+- Python | Jupyter | SQL | Tableau | Microsoft Suite   
 
 ### Libraries:
 - Pandas | Numpy | Seaborn | Matplotlib | Math/Stats | Scikit-Learn | SciPy
