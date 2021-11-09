@@ -11,7 +11,7 @@
 - Python | SQL | Tableau | Microsoft Suite | Jupyter | Git
 
 ### Libraries:
-- Pandas | Numpy | Seaborn | Matplotlib | Math/Stats | Scikit-Learn | SciPy
+- Pandas | Numpy | Seaborn | Matplotlib | Math/Stats | SciPy | Scikit-Learn | Beautiful Soup | Statsmodels
 
 ### Contact:
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffakinsmba/) 
