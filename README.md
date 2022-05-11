@@ -11,7 +11,7 @@
 - Python | SQL | Spark | Tableau | Jupyter | Git
 
 ### Libraries:
-- Pandas | Numpy | Seaborn | Matplotlib | Math/Stats | SciPy | Scikit-Learn | Beautiful Soup | Statsmodels
+- Pandas | Numpy | Math/Stats | SciPy | Scikit-Learn | Beautiful Soup | Statsmodels | Matplotlib
 
 ### Contact:
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffakinsmba/) 
