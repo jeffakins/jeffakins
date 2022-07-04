@@ -15,6 +15,6 @@
 
 ### Contact:
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffakinsmba/) 
-- Check out my [Tableau](https://public.tableau.com/app/profile/jeff.akins) portfolio! 
+
 
   
