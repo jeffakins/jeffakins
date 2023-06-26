@@ -11,7 +11,7 @@
 - Python | SQL | Spark | Tableau | Jupyter | Git
 
 ### Libraries:
-- Pandas | Numpy | SciPy | Scikit-Learn | Beautiful Soup | Statsmodels | Matplotlib | Plotly | Dash
+- Pandas | Numpy | SciPy | Scikit-Learn | Beautiful Soup | Statsmodels | Tensorflow | Matplotlib | Plotly | Dash
 - Learning Flask and Django
 
 ### Contact:
